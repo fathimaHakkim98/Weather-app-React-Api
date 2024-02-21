@@ -1,0 +1,32 @@
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.background-container {
+  width: 607px;
+  height: 600px;
+ background-color: #80BDE3;
+ margin: auto;
+ margin-top: 75px;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 10px;
+  border-radius: 12px;
+  box-shadow: 3px 3px 6px 3px black;
+  
+}
+
+.container input{
+  background: white;
+  border-radius: 40px;
+  outline: none;
+  border: none;
+}
+
+
+
